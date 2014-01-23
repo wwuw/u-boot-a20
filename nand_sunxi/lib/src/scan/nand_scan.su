@@ -1,0 +1,17 @@
+nand_scan.c:41:7:NAND_GetPageSize	0	static
+nand_scan.c:46:7:NAND_GetLogicPageSize	0	static
+nand_scan.c:51:7:NAND_GetPageCntPerBlk	0	static
+nand_scan.c:56:7:NAND_GetBlkCntPerChip	0	static
+nand_scan.c:61:7:NAND_GetChipCnt	0	static
+nand_scan.c:66:7:NAND_GetChipConnect	0	static
+nand_scan.c:71:7:NAND_GetBadBlockFlagPos	0	static
+nand_scan.c:76:7:NAND_GetReadRetryType	0	static
+nand_scan.c:81:7:NAND_GetValidBlkRatio	0	static
+nand_scan.c:86:7:NAND_SetValidBlkRatio	0	static
+nand_scan.c:93:7:NAND_GetFrequencePar	0	static
+nand_scan.c:98:7:NAND_SetFrequencePar	0	static
+nand_scan.c:105:7:NAND_GetNandVersion	0	static
+nand_scan.c:118:7:NAND_GetParam	0	static
+nand_scan.c:149:7:NAND_GetFlashInfo	0	static
+nand_scan.c:176:7:_SearchNandArchi	32	static
+nand_scan.c:297:8:SCN_AnalyzeNandSystem	112	static

@@ -1,0 +1,8 @@
+crc16.o: crc16.c /home/jason/cubieboard/u-boot-sunxi/include/crc.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/types.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/config.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/posix_types.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/stddef.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/posix_types.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/types.h \
+ /opt/arm-2013.05/bin/../lib/gcc/arm-none-linux-gnueabi/4.7.3/include/stdbool.h

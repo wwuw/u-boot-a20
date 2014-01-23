@@ -1,0 +1,15 @@
+crt0.o: crt0.S /home/jason/cubieboard/u-boot-sunxi/include/config.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/config_cmd_defaults.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/config_defaults.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/configs/sun7i.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/configs/sunxi-common.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/arch/cpu.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/config_cmd_default.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/config.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/config_fallbacks.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/config_uncmd_spl.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm-offsets.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/generated/generic-asm-offsets.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/linkage.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/linkage.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/config.h

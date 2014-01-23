@@ -1,0 +1,4 @@
+relocate.o: relocate.S \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/linkage.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/asm/linkage.h \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/config.h

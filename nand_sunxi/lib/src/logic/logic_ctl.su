@@ -1,0 +1,17 @@
+logic_ctl.c:59:14:_CalculateSectPar	48	static
+logic_ctl.c:201:14:_MergeCachePageData	40	static
+logic_ctl.c:370:7:LML_CalculatePhyOpPar	40	static
+logic_ctl.c:683:14:_CloseWritePage	48	static
+logic_ctl.c:458:7:LML_VirtualPageRead	96	static
+logic_ctl.c:548:7:LML_VirtualPageWrite	96	static
+logic_ctl.c:632:7:LML_VirtualBlkErase	56	static
+logic_ctl.c:742:7:LML_PageRead	80	static
+logic_ctl.c:860:7:LML_PageWrite	96	static
+logic_ctl.c:246:14:_WritePageCacheToNand	40	static
+logic_ctl.c:1070:7:LML_FlushPageCache	8	static
+logic_ctl.c:1107:7:LML_Read	104	static
+logic_ctl.c:1237:7:LML_Write	96	static
+logic_ctl.c:1353:7:LML_Init	16	static
+logic_ctl.c:1435:7:LML_Exit	16	static
+logic_ctl.c:1454:7:NAND_GetDiskSize	0	static
+logic_ctl.c:1464:7:NAND_SetPartInfo	40	static

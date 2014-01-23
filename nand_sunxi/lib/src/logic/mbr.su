@@ -1,0 +1,5 @@
+mbr.c:48:7:nand_calc_crc32	1048	static
+mbr.c:78:7:_get_mbr	24	static
+mbr.c:112:7:_free_mbr	8	static
+mbr.c:123:5:mbr2disks	12	static
+mbr.c:164:5:NAND_PartInit	264	static

@@ -1,0 +1,2 @@
+/home/jason/cubieboard/u-boot-sunxi/spl/lib/ctype.o: ctype.c \
+ /home/jason/cubieboard/u-boot-sunxi/include/linux/ctype.h

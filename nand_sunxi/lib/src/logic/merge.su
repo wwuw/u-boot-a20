@@ -1,0 +1,6 @@
+merge.c:28:7:_copy_page0	112	static
+merge.c:79:8:_log2data_swap_merge	104	static
+merge.c:145:8:_free2log_move_merge	136	static
+merge.c:336:8:_free2data_simple_merge	128	static
+merge.c:443:6:_get_page_map_tbl_info	40	static
+merge.c:483:7:LML_MergeLogBlk	24	static

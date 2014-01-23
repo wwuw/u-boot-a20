@@ -1,0 +1,8 @@
+nand_simple_w.c:44:7:_write_signle_page	272	static
+nand_simple_w.c:99:7:_write_signle_page_seq	272	static
+nand_simple_w.c:155:7:_write_signle_page_1K	264	static
+nand_simple_w.c:211:7:_erase_single_block	120	static
+nand_simple_w.c:238:7:PHY_SimpleWrite	24	static
+nand_simple_w.c:269:7:PHY_SimpleWrite_Seq	24	static
+nand_simple_w.c:301:7:PHY_SimpleWrite_1K	24	static
+nand_simple_w.c:331:7:PHY_SimpleErase	16	static

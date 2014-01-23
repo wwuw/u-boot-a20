@@ -1,0 +1,13 @@
+logic_cache.c:50:7:_get_valid_bits	20	static
+logic_cache.c:64:7:_get_first_valid_bit	20	static
+logic_cache.c:77:7:_flush_w_cache	48	static
+logic_cache.c:110:7:_flush_w_cache_simple	48	static
+logic_cache.c:138:7:NAND_CacheFlush	8	static
+logic_cache.c:148:7:NAND_CacheFlushDev	16	static
+logic_cache.c:168:6:_get_data_from_cache	56	static
+logic_cache.c:191:6:_get_one_page	40	static
+logic_cache.c:233:7:NAND_CacheRead	64	static
+logic_cache.c:283:7:_fill_nand_cache	64	static
+logic_cache.c:374:7:NAND_CacheWrite	64	static
+logic_cache.c:455:7:NAND_CacheOpen	40	static
+logic_cache.c:481:7:NAND_CacheClose	16	static

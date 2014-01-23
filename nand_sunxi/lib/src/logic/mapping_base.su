@@ -1,0 +1,13 @@
+mapping_base.c:42:13:_CalLogAccessCnt	0	static
+mapping_base.c:249:14:_GetLogBlkPst	0	static
+mapping_base.c:79:7:BMM_GetDataBlk	8	static
+mapping_base.c:111:7:BMM_SetDataBlk	16	static
+mapping_base.c:145:7:BMM_GetFreeBlk	32	static
+mapping_base.c:525:14:_GetLogPageForWrite	104	static
+mapping_base.c:216:7:BMM_SetFreeBlk	16	static
+mapping_base.c:284:7:BMM_GetLogBlk	16	static
+mapping_base.c:333:7:BMM_SetLogBlk	8	static
+mapping_base.c:666:7:PMM_GetLogPage	24	static
+mapping_base.c:747:6:PMM_ClearCurMapTbl	0	static
+mapping_base.c:754:7:PMM_GetCurMapPage	0	static
+mapping_base.c:759:6:PMM_SetCurMapPage	0	static

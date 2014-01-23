@@ -1,0 +1,12 @@
+nand_format.c:609:14:_GetFreeBlkFromDieInfo	20	static
+nand_format.c:136:7:_CalculatePhyOpPar	40	static
+nand_format.c:429:14:_VirtualBlockErase	56	static
+nand_format.c:335:14:_VirtualPageWrite	96	static
+nand_format.c:516:14:_WriteBadBlkFlag	88	static
+nand_format.c:225:14:_VirtualPageRead	96	static
+nand_format.c:798:14:_GetLastUsedPage	72	static
+nand_format.c:699:14:_MergeDataBlkToFreeBlk	96	static
+nand_format.c:2529:7:FMT_Init	32	static
+nand_format.c:2611:7:FMT_Exit	0	static
+nand_format.c:2636:7:FMT_FormatNand	168	static
+nand_format.c:2683:6:ClearNandStruct	0	static

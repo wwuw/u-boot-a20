@@ -1,0 +1,9 @@
+nand_fspart.c:37:14:0	1032	static
+nand_fspart.c:69:5:sunxi_nand_getpart_num	0	static
+nand_fspart.c:76:5:sunxi_nand_getpart_name	8	static
+nand_fspart.c:85:5:sunxi_nand_getpart_offset	0	static
+nand_fspart.c:97:5:sunxi_nand_getpart_size	0	static
+nand_fspart.c:109:5:sunxi_nand_getpart_offset_byname	24	static
+nand_fspart.c:125:5:sunxi_nand_getpart_size_byname	24	static
+nand_fspart.c:145:5:sunxi_nand_getpart_info_byname	32	static
+nand_fspart.c:163:5:sunxi_nand_scan_partition	56	static

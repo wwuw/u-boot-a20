@@ -1,0 +1,12 @@
+mapping.c:70:14:_GetTblCheckSum	0	static
+mapping.c:224:14:_write_back_page_map_tbl	96	static
+mapping.c:681:14:_write_back_block_map_tbl	96	static
+mapping.c:32:6:dump	32	static
+mapping.c:97:7:PMM_InitMapTblCache	32	static
+mapping.c:158:7:PMM_ExitMapTblCache	16	static
+mapping.c:509:7:BMM_InitMapTblCache	32	static
+mapping.c:594:7:BMM_ExitMapTblCache	24	static
+mapping.c:903:7:BMM_SwitchMapTbl	64	static
+mapping.c:932:7:BMM_WriteBackAllMapTbl	24	static
+mapping.c:997:7:BMM_SetDirtyFlag	72	static
+mapping.c:482:7:PMM_SwitchMapTbl	128	static
